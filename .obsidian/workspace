@@ -7,11 +7,8 @@
         "id": "db8440f3ed27df6b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Non-lifting flow over circular cylinder.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -101,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-lifting flow over circular cylinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
