@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "29daafa631186e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8440f3ed27df6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Non-lifting flow over circular cylinder.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ad93ef3aefc8289",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce84debe66d669c",
+        "type": "tabs",
+        "dimension": 56.61605206073753,
+        "children": [
+          {
+            "id": "456136390cd05288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "849d6dc732d523f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#elementary",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18eabc62178653db",
+        "type": "tabs",
+        "dimension": 43.38394793926247,
+        "children": [
+          {
+            "id": "f8b288310cc1b175",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e729f17c5274d42d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfcb6f9d6080cb9e",
+        "type": "tabs",
+        "dimension": 53.49162011173184,
+        "children": [
+          {
+            "id": "c6b35a5f065dc0d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3cf27cdd0e66bc6e",
+        "type": "tabs",
+        "dimension": 46.50837988826816,
+        "children": [
+          {
+            "id": "7a44316f1ead5057",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Non-lifting flow over circular cylinder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242,
+    "collapsed": true
+  },
+  "active": "db8440f3ed27df6b",
+  "lastOpenFiles": [
+    "Non-lifting flow over circular cylinder.md",
+    "Excalidraw/testd.md",
+    "test.md",
+    "Rational flow.md",
+    "2021-10-31.md",
+    "Streamlines.md",
+    "Doublet Flow.md",
+    "Uniform + Source Flow.md",
+    "Polar Coordiantes.md",
+    "Source Flow.md"
+  ]
+}
