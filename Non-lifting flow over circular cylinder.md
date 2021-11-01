@@ -29,4 +29,4 @@ Geometrically symmetrical ==> symmetrical [[Pressure]] distribution
 In real flows a wake is created and the symmetry is destroyed so the Drag is non zero
 
 
-test
+testtetst

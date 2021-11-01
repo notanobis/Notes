@@ -7,8 +7,11 @@
         "id": "db8440f3ed27df6b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Non-lifting flow over circular cylinder.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271,
-    "collapsed": true
+    "width": 271
   },
   "right": {
     "id": "e729f17c5274d42d",
@@ -98,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Non-lifting flow over circular cylinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +121,7 @@
   "active": "db8440f3ed27df6b",
   "lastOpenFiles": [
     "Non-lifting flow over circular cylinder.md",
+    "Pasted image 20211031195940.png",
     "Excalidraw/testd.md",
     "test.md",
     "Rational flow.md",
@@ -125,7 +129,6 @@
     "Streamlines.md",
     "Doublet Flow.md",
     "Uniform + Source Flow.md",
-    "Polar Coordiantes.md",
-    "Source Flow.md"
+    "Polar Coordiantes.md"
   ]
 }
