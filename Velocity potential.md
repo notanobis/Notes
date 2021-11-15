@@ -12,3 +12,4 @@ $\nabla \phi=const$ == Gradient line == [[Streamlines]]
 Equipotential lines are perpendicular to Gradient lines
 Meaning
 >constant φ lines are perpendicular to to constant ψ lines
+

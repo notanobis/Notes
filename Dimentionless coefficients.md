@@ -13,3 +13,4 @@ $$cp=\frac{p-p_{\infty}}{q_\infty}$$
 Aerodynamic efficiency = lift to drag ratio:	$\frac{L}{D}=\frac{CL}{CD}$
 
 If two flows are similar then the force coefficients are the same
+

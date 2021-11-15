@@ -6,7 +6,8 @@ We can see the temperature variation inside the boundary in [[Temperature]]
 
 
 ### Boundary condition (for [[Inviscid flow]]):
-$$\frac{\partial \psi}{\partial s}=0$$
+$$u=\frac{\partial\phi}{\partial x}=\frac{\partial\psi}{\partial y}=V_\infty$$
+$$v=\frac{\partial \phi}{\partial y}=-\frac{\partial \psi}{\partial x}=0$$
 $$\psi_{surface}=\psi_{y=yb}=const$$
 where ψ is [[Stream function]] and if constant it indicates a streamline
 yb is y of body

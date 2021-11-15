@@ -1,4 +1,4 @@
-Net mass flow out of control time rate of decrease of = volume through surface S mass inside control volume V
+Net mass flow out of control volume through surface S= time rate of decrease of  mass inside control volume V
 $$\frac{\partial}{\partial t}\oint \oint \oint \rho *dVol+\oint \oint \rho \vec{V} \cdot \vec{dS}=0$$
 
 In form of partial differential:

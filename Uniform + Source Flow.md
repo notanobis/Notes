@@ -1,7 +1,7 @@
 ### Superimpose [[Uniform Flow]] and [[Source Flow]]
 
 $$ \psi=V_\infty rsin\theta+\frac{\Lambda}{2\pi}\theta$$
-![[Pasted image 20211031181327.png]]
+![[source+uniform.png]]
 
 In [[Polar Coordiantes]]:
 $$Vr=\frac{1}{r}\frac{\partial\psi}{\partial\theta}=V_\infty cos\theta +\frac{\Lambda}{2\pi r}$$

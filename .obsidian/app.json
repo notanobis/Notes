@@ -10,5 +10,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "showUnsupportedFiles": true
 }

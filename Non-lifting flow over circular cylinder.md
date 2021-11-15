@@ -1,6 +1,6 @@
 ### Superposition of [[Uniform Flow]] and [[Doublet Flow]]
 
-![[Pasted image 20211031195940.png]]
+![[doublet+uniform.png]]
 
 #### [[Stream function]]:
 
@@ -29,4 +29,5 @@ Geometrically symmetrical ==> symmetrical [[Pressure]] distribution
 In real flows a wake is created and the symmetry is destroyed so the Drag is non zero
 
 
-testtetst
+## For 3 Dimensions :
+[[Flow over sphere]]

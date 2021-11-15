@@ -8,6 +8,10 @@ $$\nabla \cdot V=0$$and $$\nabla \times V=0$$
 From $$\nabla \phi =V$$
 ==>
 $$\phi=V_\infty x $$
+###### On [[Spherical coordinates]]:
+$$Vr=-V_\infty cos\theta$$
+$$V_\theta =V_\infty sin\theta$$
+$$V_\phi =0$$
 
 [[Circulation]]:
 $$\Gamma =-V_\infty \cdot \oint ds=V_\infty \cdot 0=0$$
