@@ -13,5 +13,5 @@ For two-dimensional steady flow:
 $$\frac{dy}{dx} = \frac{v}{u}$$
 Solving this differential gives an equation ψ(x,y)=c the [[Stream function]]
 
-#question
+
 ### Stagnation streamline / dividing streamline?

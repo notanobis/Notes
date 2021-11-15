@@ -4,5 +4,5 @@ $$x_{ac}=-\frac{m_0}{a_0}+0.25$$
 where $$a_0=\frac{dc_1}{da}$$
 $$m_0=\frac{dc_{m,c/4}}{da}$$
 
-#question da/dt= const or =0???
+ da/dt= const or =0???
 pressure center(=0) ? why need da/dt const?

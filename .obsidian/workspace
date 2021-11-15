@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8a96b8abead900",
+        "id": "402ed6bae38701a3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apparent magnitude.md",
+            "file": "H-R diagram.md",
             "mode": "preview"
           }
         }
@@ -22,9 +22,24 @@
     "type": "split",
     "children": [
       {
+        "id": "1db096e9f4cab8a8",
+        "type": "tabs",
+        "dimension": 28.37528604118993,
+        "children": [
+          {
+            "id": "bc8a96b8abead900",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "fce84debe66d669c",
         "type": "tabs",
-        "dimension": 56.61605206073753,
+        "dimension": 71.62471395881008,
         "children": [
           {
             "id": "456136390cd05288",
@@ -47,21 +62,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "18eabc62178653db",
-        "type": "tabs",
-        "dimension": 43.38394793926247,
-        "children": [
-          {
-            "id": "f8b288310cc1b175",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apparent magnitude.md",
+                "file": "H-R diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
     "width": 284,
     "collapsed": true
   },
-  "active": "bc8a96b8abead900",
+  "active": "402ed6bae38701a3",
   "lastOpenFiles": [
-    "Apparent magnitude.md",
+    "H-R diagram.md",
+    "Zeeman effect.md",
+    "Bohr Model--H.md",
+    "Γραμμές εκπομπής υδρογώνου.md",
+    "Balmer series.md",
+    "Paschen series.md",
+    "Lyman series.md",
+    "Biot-Savart law.md",
     "Λαμπρότητα.md",
-    "Mie scatterring.md",
-    "Flux Density.md",
-    "Luminocity.md",
-    "Black body.md",
-    "Operational Amplifier.md",
-    "Task.md",
-    "naca.md",
-    "Dimentionless coefficients.md"
+    "Flux Density.md"
   ]
 }
