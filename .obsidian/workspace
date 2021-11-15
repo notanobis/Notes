@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "402ed6bae38701a3",
+        "id": "2455811e58a9ae02",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H-R diagram.md",
+            "file": "Intensity.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H-R diagram.md",
+                "file": "Intensity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
     "width": 284,
     "collapsed": true
   },
-  "active": "402ed6bae38701a3",
+  "active": "2455811e58a9ae02",
   "lastOpenFiles": [
-    "H-R diagram.md",
-    "Zeeman effect.md",
-    "Bohr Model--H.md",
-    "Γραμμές εκπομπής υδρογώνου.md",
-    "Balmer series.md",
-    "Paschen series.md",
-    "Lyman series.md",
-    "Biot-Savart law.md",
+    "Intensity.md",
+    "Κβαντο.md",
+    "Relative Energy.md",
+    "Stagnation points.md",
     "Λαμπρότητα.md",
-    "Flux Density.md"
+    "Mie scatterring.md",
+    "Photoelectric effect.md",
+    "Strefan-Boltzmann law.md",
+    "Black body.md",
+    "Wein Law.md"
   ]
 }
