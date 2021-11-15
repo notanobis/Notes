@@ -1,1 +1,0 @@
-$$\oint A \cdot ds=\int \int (\nabla \times A)\cdot ds $$

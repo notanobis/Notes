@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "29daafa631186e54",
+    "id": "b149479d5fa643b0",
     "type": "split",
     "children": [
       {
-        "id": "db8440f3ed27df6b",
+        "id": "d5975b1d1d77b8bc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Non-lifting flow over circular cylinder.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271,
-    "collapsed": true
+    "width": 271
   },
   "right": {
     "id": "e729f17c5274d42d",
@@ -78,10 +74,10 @@
       {
         "id": "dfcb6f9d6080cb9e",
         "type": "tabs",
-        "dimension": 53.49162011173184,
+        "dimension": 53.49162011173185,
         "children": [
           {
-            "id": "c6b35a5f065dc0d5",
+            "id": "a349ec84ce84d414",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,7 +89,7 @@
       {
         "id": "3cf27cdd0e66bc6e",
         "type": "tabs",
-        "dimension": 46.50837988826816,
+        "dimension": 46.50837988826815,
         "children": [
           {
             "id": "7a44316f1ead5057",
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-lifting flow over circular cylinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +114,17 @@
     "width": 242,
     "collapsed": true
   },
-  "active": "db8440f3ed27df6b",
+  "active": "d5975b1d1d77b8bc",
   "lastOpenFiles": [
+    "Position operator.md",
+    "Untitled.md",
+    "Aerodynamics.md",
     "Non-lifting flow over circular cylinder.md",
     "Excalidraw/testd.md",
     "test.md",
     "Rational flow.md",
     "2021-10-31.md",
     "Streamlines.md",
-    "Doublet Flow.md",
-    "Uniform + Source Flow.md",
-    "Polar Coordiantes.md",
-    "Source Flow.md"
+    "Doublet Flow.md"
   ]
 }
