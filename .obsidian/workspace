@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intensity.md",
+            "file": "Linear vector space.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intensity.md",
+                "file": "Linear vector space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "2455811e58a9ae02",
   "lastOpenFiles": [
-    "Intensity.md",
-    "Κβαντο.md",
-    "Relative Energy.md",
-    "Stagnation points.md",
-    "Λαμπρότητα.md",
-    "Mie scatterring.md",
-    "Photoelectric effect.md",
-    "Strefan-Boltzmann law.md",
-    "Black body.md",
-    "Wein Law.md"
+    "Linear vector space.md",
+    "Linearly indipendent vectors.md",
+    "Vector space.md",
+    "Vector base.md",
+    "Kronecker delta.md",
+    "Square Integratable functions.md",
+    "Hilbert Space.md",
+    "Cauchy Sequence.md",
+    "Complex Conjugate.md",
+    "Abelian Group.md"
   ]
 }
