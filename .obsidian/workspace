@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2455811e58a9ae02",
+        "id": "4dc3d36fd5080ed6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear vector space.md",
+            "file": "Skew- Hermitian.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "aa8196bc896b3894",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hermitian conjugate.md",
             "mode": "preview"
           }
         }
@@ -27,7 +38,7 @@
         "dimension": 28.37528604118993,
         "children": [
           {
-            "id": "bc8a96b8abead900",
+            "id": "0e6dee4387513aa1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -55,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "euclid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear vector space.md",
+                "file": "Skew- Hermitian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +123,17 @@
     "width": 284,
     "collapsed": true
   },
-  "active": "2455811e58a9ae02",
+  "active": "4dc3d36fd5080ed6",
   "lastOpenFiles": [
-    "Linear vector space.md",
-    "Linearly indipendent vectors.md",
-    "Vector space.md",
-    "Vector base.md",
-    "Kronecker delta.md",
-    "Square Integratable functions.md",
-    "Hilbert Space.md",
-    "Cauchy Sequence.md",
-    "Complex Conjugate.md",
-    "Abelian Group.md"
+    "Skew- Hermitian.md",
+    "Hermitian conjugate.md",
+    "Linear Operators.md",
+    "Hermitian Operator.md",
+    "Schwartz inequality.md",
+    "Operators.md",
+    "Fundamentals of Aerodynamics by Anderson-- My thoughts.md",
+    "Associativity.md",
+    "Triangle inequality.md",
+    "Linearly indipendent vectors.md"
   ]
 }

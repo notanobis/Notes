@@ -3,3 +3,7 @@
 -  He also has the delusion that he is an anime character:
 "This author thinks it is very important... " That just reminds me of creepy ol' man in my town asking "Do you want grandpa to give you some EnTerTaInMent?"
 -  This author also finds great pleasure in thinking about the *aerodynamics of a tree*
+
+[[naca]]
+[[Naca12]]
+[[Aerodynamics]]

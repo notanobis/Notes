@@ -8,9 +8,13 @@ The addition rule has the properties and structure of an [[Abelian Group]]
 The multiplication of vectors by scalars (scalars can be real or complex numbers)
 a,b = scalars
 - if $x,y \in V$  then any linear combination $ax+by \in V$
-- **Distributivity** (Επιμεριστική) with respect to addition
+- [[Distributivity]]  with respect to addition
 $a(x+y)=ax+by$
-- **Associativity** (Προσεταιριστική) with respect to multiplication of scalars
+- [[Associativity]] with respect to multiplication of scalars
 $(ab)y=a(by)$
 - $\exists$  unitary scalar I and a zero scalar O
 $Iy=y$ and $Oy=O$
+
+======
+1. [[Vector space]]
+2. any linear combination also belongs to the space

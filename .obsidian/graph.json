@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#question",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 15601937
+        "rgb": 14701138
       }
     }
   ],
@@ -21,10 +21,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.26025641025641,
   "repelStrength": 9.52941176470588,
   "linkStrength": 0.805882352941177,
   "linkDistance": 315,
-  "scale": 0.3213363860503601,
+  "scale": 0.08317427835927678,
   "close": true
 }
