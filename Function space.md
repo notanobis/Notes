@@ -13,4 +13,4 @@ $$<\psi|\phi>=0$$
 ### Norm - μήκος - μέτρο της y
 $$||y||=\sqrt{<y|y>}$$
 
-βλ. [[Schwartz inequality]]	&	[[Triangle inequality]]
+βλ. [[Cauchy - Schwartz inequality]]	&	[[Triangle inequality]]

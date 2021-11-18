@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc3d36fd5080ed6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Skew- Hermitian.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "aa8196bc896b3894",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Hermitian conjugate.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -66,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "euclid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skew- Hermitian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +108,17 @@
     "width": 284,
     "collapsed": true
   },
-  "active": "4dc3d36fd5080ed6",
+  "active": "aa8196bc896b3894",
   "lastOpenFiles": [
-    "Skew- Hermitian.md",
-    "Hermitian conjugate.md",
-    "Linear Operators.md",
-    "Hermitian Operator.md",
-    "Schwartz inequality.md",
-    "Operators.md",
-    "Fundamentals of Aerodynamics by Anderson-- My thoughts.md",
-    "Associativity.md",
+    "Rutherford experiment.md",
+    "Drag.md",
+    "Shear stress.md",
+    "Viscosity coefficient.md",
+    "Cauchy - Schwartz inequality.md",
+    "Function space.md",
     "Triangle inequality.md",
-    "Linearly indipendent vectors.md"
+    "Projection Operator.md",
+    "Hermitian conjugate.md",
+    "Hermitian Operator.md"
   ]
 }
