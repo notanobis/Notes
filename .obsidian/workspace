@@ -1,30 +1,32 @@
 {
   "main": {
-    "id": "b149479d5fa643b0",
+    "id": "4761787cd30b5589",
     "type": "split",
     "children": [
       {
-        "id": "d5975b1d1d77b8bc",
+        "id": "dc5d497e45ca86a6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Doublet Flow.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9ad93ef3aefc8289",
+    "id": "221aaf2ec66f5d40",
     "type": "split",
     "children": [
       {
-        "id": "fce84debe66d669c",
+        "id": "5b5297426f4b4daf",
         "type": "tabs",
-        "dimension": 56.61605206073753,
         "children": [
           {
-            "id": "456136390cd05288",
+            "id": "419e9ec253c0c155",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -32,12 +34,12 @@
             }
           },
           {
-            "id": "849d6dc732d523f4",
+            "id": "f0098f6464980cd6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#elementary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,56 +49,34 @@
             }
           }
         ]
-      },
-      {
-        "id": "18eabc62178653db",
-        "type": "tabs",
-        "dimension": 43.38394793926247,
-        "children": [
-          {
-            "id": "f8b288310cc1b175",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 271
+    "width": 300
   },
   "right": {
-    "id": "e729f17c5274d42d",
+    "id": "13811df10e62f698",
     "type": "split",
     "children": [
       {
-        "id": "dfcb6f9d6080cb9e",
+        "id": "a0e9ef3e88bfa85e",
         "type": "tabs",
-        "dimension": 53.49162011173185,
         "children": [
           {
-            "id": "a349ec84ce84d414",
+            "id": "b8901a0e4befd76b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "3cf27cdd0e66bc6e",
-        "type": "tabs",
-        "dimension": 46.50837988826815,
-        "children": [
+          },
           {
-            "id": "7a44316f1ead5057",
+            "id": "c260674789a803f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Doublet Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,20 +91,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242,
+    "width": 300,
     "collapsed": true
   },
-  "active": "d5975b1d1d77b8bc",
+  "active": "dc5d497e45ca86a6",
   "lastOpenFiles": [
-    "Position operator.md",
-    "Untitled.md",
+    "Doublet Flow.md",
+    "Drag.md",
+    "Dimentionless coefficients.md",
+    "Continuity equation.md",
+    "Circulation.md",
     "Aerodynamics.md",
-    "Non-lifting flow over circular cylinder.md",
-    "Excalidraw/testd.md",
-    "test.md",
-    "Rational flow.md",
-    "2021-10-31.md",
-    "Streamlines.md",
-    "Doublet Flow.md"
+    "Vortex sheet.md",
+    "Task.md",
+    "Spherical coordinates.md",
+    "Stagnation points.md"
   ]
 }

@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
+<<<<<<< HEAD
   "collapse-color-groups": true,
   "colorGroups": [],
   "collapse-display": true,
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#question",
+      "color": {
+        "a": 1,
+        "rgb": 15601937
+      }
+    }
+  ],
+  "collapse-display": false,
+>>>>>>> 8ec54dd4310ee4d1c6ad7f9ca920443ef1ff5faf
   "showArrow": false,
-  "textFadeMultiplier": -0.5,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
+<<<<<<< HEAD
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.3193027187384945,
   "close": false
+=======
+  "repelStrength": 9.52941176470588,
+  "linkStrength": 0.805882352941177,
+  "linkDistance": 315,
+  "scale": 0.16348370567220638,
+  "close": true
+>>>>>>> 8ec54dd4310ee4d1c6ad7f9ca920443ef1ff5faf
 }
