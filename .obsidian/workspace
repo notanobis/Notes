@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8196bc896b3894",
+        "id": "72d7f53b10cdd7f9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Nuclear Reactions.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -52,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bjt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -73,7 +75,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dfcb6f9d6080cb9e",
+        "id": "16082c7499caaa25",
         "type": "tabs",
         "children": [
           {
@@ -83,13 +85,20 @@
               "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6a9464d93142dd44",
+        "type": "tabs",
+        "children": [
           {
             "id": "7a44316f1ead5057",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nuclear Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +109,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
-  "active": "aa8196bc896b3894",
+  "active": "72d7f53b10cdd7f9",
   "lastOpenFiles": [
+    "Nuclear Reactions.md",
+    "Nuclear Fusion.md",
+    "Binding Energy.md",
+    "Nuclear Mass.md",
+    "gamma ray.md",
+    "a particle.md",
     "Rutherford experiment.md",
-    "Drag.md",
-    "Shear stress.md",
-    "Viscosity coefficient.md",
-    "Cauchy - Schwartz inequality.md",
-    "Function space.md",
-    "Triangle inequality.md",
-    "Projection Operator.md",
-    "Hermitian conjugate.md",
-    "Hermitian Operator.md"
+    "Mass spectometry.md",
+    "TODO.md",
+    "Mass number.md"
   ]
 }
