@@ -1,3 +1,4 @@
+#FluidDynamics 
 1. M<1 everywhere
 2. Smooth [[Streamlines]] no discontinuity
 3. V< V sound

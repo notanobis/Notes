@@ -1,3 +1,4 @@
+#Nuclear 
 Ενέργεια πριν = Ενέργεια μετά
 [[Nuclear Mass]] αρχικα= [[Nuclear Mass]] τελικά +Q
 Q κινητική ενεργεια
@@ -8,6 +9,7 @@ Q κινητική ενεργεια
 $$Zm_p+Nm_n-B1(Z,N)=Zm_p+Nm_n-B2(Z,N)+Q$$
 
 πχ [[Nuclear Fusion]]
+B = [[Binding Energy]]
 
 #### Διατήρηση:
 1. Φορτίου

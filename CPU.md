@@ -1,22 +1,29 @@
+#Programming 
 Central Processing Unit
-Integrated circuits
+Integrated circuit
 
-Desktop
+### Desktop
 - Intel
 - AMD
 
-Mobile (SoC- system on a chip= [[GPU]]+Modem +GPS)
+### Mobile 
+Referred to as  SoC- system on a chip= [[GPU]]+Modem +GPS
 - Qualcomm
 - Apple 
 - Samsung
 
 Παράγοντες :
+- Απόδωση
 - Θερμότητα
 - Κατανάλωση ενέργειας
 
-Νήμα -  Thread: Hyperthreading (παράλληλος προγραμματισμός- 2 λογικα CPUs)
+Υπολογιστική ισχύς μετριέται σε FLOPS ( Floating Point Operations Per Second )
 
-Αύξηση CPU γρηγορότερη μνήμης [[DRAM]]
+### Νήμα -  Thread
+Thread: ο τρόπος με τον οποίο τροφοδοτούνται οι πληροφορίες
+Hyperthreading: 2 λογικά CPUs σε ένα λειτουργικό σύστημα ([[Parallel Programming]] - επιταχύνει την εκτέλεση ενός προγράμματος)
+
+Αύξηση ταχύτητας CPU γρηγορότερα της μνήμης [[DRAM]]
 Λύση : CPU<--> Cache <--> Main Memory
 Cache : μικρή
 

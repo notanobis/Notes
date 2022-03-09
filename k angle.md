@@ -475,7 +475,7 @@ k1 ^xNCe8FOi
 			"fontFamily": 1,
 			"text": "k2",
 			"rawText": "k2",
-			"baseline": 18,
+			"baseline": 17,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		},
@@ -505,7 +505,7 @@ k1 ^xNCe8FOi
 			"fontFamily": 1,
 			"text": "k1",
 			"rawText": "k1",
-			"baseline": 18,
+			"baseline": 17,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		},
@@ -695,7 +695,7 @@ k1 ^xNCe8FOi
 			"fontFamily": 1,
 			"text": "Δθ1",
 			"rawText": "Δθ1",
-			"baseline": 18,
+			"baseline": 17,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		},
@@ -725,7 +725,7 @@ k1 ^xNCe8FOi
 			"fontFamily": 1,
 			"text": "Δθ2",
 			"rawText": "Δθ2",
-			"baseline": 18,
+			"baseline": 17,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		}
@@ -834,8 +834,8 @@ k1 ^xNCe8FOi
 			<path d="M-0.01 -0.04 C2.43 -0.02, 12.36 -1.94, 14.5 0.76 C16.65 3.45, 13.29 13.93, 12.87 16.13 M-1.48 -1.1 C0.87 -0.96, 11.57 -0.41, 13.82 2.17 C16.07 4.75, 12.39 12.33, 12.04 14.38" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(229 89) rotate(0 12 12.5)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">k2</text></g>
-	<g transform="translate(31 187) rotate(0 7.5 12.5)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">k1</text></g>
+	<g transform="translate(229 89) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">k2</text></g>
+	<g transform="translate(31 187) rotate(0 7.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">k1</text></g>
 	<g stroke-linecap="round">
 		<g transform="translate(185 134) rotate(0 86 -1.5)">
 			<path d="M-0.64 0.07 C28.2 -0.36, 143.84 -1.58, 172.43 -2.17 M1.23 -0.95 C29.99 -1.74, 143.05 -3.61, 171.71 -3.86" stroke="#000000" stroke-width="1" fill="none"></path>
@@ -856,8 +856,8 @@ k1 ^xNCe8FOi
 			<path d="M0.46 0.19 C1.86 -1, 5.25 -7.69, 7.74 -7.65 C10.23 -7.61, 14.1 -1.19, 15.39 0.44 M-0.76 -0.75 C0.52 -1.75, 4.06 -6.82, 6.65 -6.45 C9.25 -6.08, 13.28 0.36, 14.82 1.46" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(196 49) rotate(0 15 12.5)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Δθ1</text></g>
-	<g transform="translate(291 107) rotate(0 19 12.5)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Δθ2</text></g>
+	<g transform="translate(196 49) rotate(0 15 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Δθ1</text></g>
+	<g transform="translate(291 107) rotate(0 19 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Δθ2</text></g>
 </svg>
 ```
 %%

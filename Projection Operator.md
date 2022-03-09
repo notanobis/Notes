@@ -1,3 +1,4 @@
+#Quantum #Math 
 Projection [[Operators]] :
 $$P=\ket a\bra a$$
 and $$\bra a \ket a=1$$

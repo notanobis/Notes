@@ -1,3 +1,4 @@
+#Quantum #Math 
 ## Μεταθέτης
 $$[A,B]=AB-BA$$
 If [[Operators]] are [[Hermitian Operator]] and their product is also hermitian--> they  commute

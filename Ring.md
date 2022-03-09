@@ -1,3 +1,4 @@
+#Math 
 Δομή G με + και *
 1. [[Abelian Group]] ως προς +
 2. [[Associativity]] ως προς *  

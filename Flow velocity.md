@@ -1,3 +1,4 @@
+#FluidDynamics 
 The velocity of an infinitely small [[fluid element]] as it sweeps through a fixed point in space
 $\vec{V}$ : has magnitute and direction, unlike [[Temperature]], [[Pressure]], and Density
 

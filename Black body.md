@@ -3,6 +3,6 @@
 - [[Strefan-Boltzmann law]]
 - [[Wein Law]]
 -  Wein : $$J \propto f^3 e^{-af/T},f->\infty$$
-	Εμπειρικός τύπος Planck
-	$$J=\frac{2\pi h}{c^2}\frac{f^3}{e^\frac{hf}{kT}-1}$$
+	Εμπειρικός τύπος [[Planck's Law]]:
+	$$Iv=Sv=\frac{2\pi h}{c^2}\frac{f^3}{e^\frac{hf}{kT}-1}$$
 	Από εδώ ορίστικε $$h=6.62*10^{-34} J\cdot sec$$

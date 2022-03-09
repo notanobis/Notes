@@ -1,3 +1,4 @@
+#Math #Quantum 
 #### [[Euclidean space]]
 $$|\vec{A}\cdot\vec{B}|^2 \leq |\vec{A}|^2|\vec{B}|^2$$
 #### [[Function space]]

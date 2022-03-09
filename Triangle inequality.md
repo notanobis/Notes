@@ -1,3 +1,4 @@
+#Quantum #Math 
 #### [[Euclidean space]]
 $$|\vec{A}+\vec{B}|\leq |\vec{A}|+|\vec{B}|$$
 #### [[Function space]]

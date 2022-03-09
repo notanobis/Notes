@@ -3,6 +3,12 @@ When saying pressure we usually refer to static pressure which is the pressure d
 
 - Measured by the static pressure orifice
 
+[[Ideal gas]]
+$$P=\frac{2}{3}nm<\frac{u^2}{2}>=\frac{2}{3}u$$
+όπου 
+u : πυκνότητα εσωτερικής ενέργειας αερίου --> [[Internal energy]]
+$$u=nm<\frac{u^2}{2}>$$
+
 ### Total pressure
 The pressure if we stopped the flow entirely V2=0
 When local velocity is 0 the total pressure is the same with static pressure

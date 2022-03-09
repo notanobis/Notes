@@ -1,3 +1,4 @@
+#Nuclear #Quantum 
 ### Τύπος του Balmer
 $$f=R(\frac{1}{m^2}-\frac{1}{n^2})$$
 m: αρχική στιβάδα

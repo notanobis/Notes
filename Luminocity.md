@@ -1,4 +1,4 @@
-## Φωτεινότητα
+## Φωτεινότητα 
 $$[L]=[\frac{Power}{Time}]=\frac{J}{s}=Watt$$
 [[Electromagnetic Power]] προς Δt
 $$L=4\pi R^2 F=4\pi R^2 \sigma T_{eff}^4$$

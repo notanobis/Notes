@@ -1,3 +1,4 @@
+#Math 
 $$\frac{D}{Dt}f=\dot x\frac{\partial f}{\partial x}+\dot y\frac{\partial f}{\partial y}...+\dot t\frac{\partial f}{\partial t}$$
 $$\neq \frac{\partial f}{\partial t}$$
 
