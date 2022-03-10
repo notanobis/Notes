@@ -1,0 +1,1 @@
+Group neurons and compute the steepest descend separately --> less accurate but less computing power

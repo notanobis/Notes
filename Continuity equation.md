@@ -1,3 +1,4 @@
+#FluidDynamics 
 Net mass flow out of control volume through surface S= time rate of decrease of  mass inside control volume V
 $$\frac{\partial}{\partial t}\oint \oint \oint \rho *dVol+\oint \oint \rho \vec{V} \cdot \vec{dS}=0$$
 

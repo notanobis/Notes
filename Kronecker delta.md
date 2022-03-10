@@ -1,0 +1,2 @@
+#Math 
+![[Pasted image 20211116114823.png]]

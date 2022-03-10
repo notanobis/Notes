@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Doublet Flow.md",
+            "file": "Statistical weight.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doublet Flow.md",
+                "file": "Statistical weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "dc5d497e45ca86a6",
   "lastOpenFiles": [
-    "Doublet Flow.md",
-    "Drag.md",
-    "Dimentionless coefficients.md",
-    "Continuity equation.md",
-    "Circulation.md",
-    "Aerodynamics.md",
-    "Vortex sheet.md",
-    "Task.md",
-    "Spherical coordinates.md",
-    "Stagnation points.md"
+    "Statistical weight.md",
+    "Isolated system.md",
+    "2nd Law.md",
+    "Kinetic Theory of Gases.md",
+    "Special Relativity.md",
+    "Magnetic Field.md",
+    "Magnetic Flux Density.md",
+    "Relativity.md",
+    "Flux Density.md",
+    "Flux.md"
   ]
 }

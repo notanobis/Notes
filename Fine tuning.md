@@ -1,0 +1,3 @@
+[[Transfer learning]] technique where the parameters of a pretrained model are updated by training for additional epochs using a different task than the one used for pretraining
+
+learn.fine_tune(1)= 1 epoch...
