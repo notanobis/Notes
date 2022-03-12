@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Statistical weight.md",
+            "file": "Electromotive Force.md",
             "mode": "preview"
           }
         }
@@ -39,16 +39,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Electromagnetism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical weight.md",
+                "file": "Electromotive Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +97,15 @@
   },
   "active": "dc5d497e45ca86a6",
   "lastOpenFiles": [
-    "Statistical weight.md",
-    "Isolated system.md",
-    "2nd Law.md",
-    "Kinetic Theory of Gases.md",
-    "Special Relativity.md",
-    "Magnetic Field.md",
-    "Magnetic Flux Density.md",
-    "Relativity.md",
-    "Flux Density.md",
-    "Flux.md"
+    "Electromotive Force.md",
+    "Ampere Circuital Law.md",
+    "Maxwell's equations.md",
+    "DIsplacement Current Density.md",
+    "Electric Displacement Field.md",
+    "Charge conservation.md",
+    "Capacitor.md",
+    "Electrical Permittivity.md",
+    "Gauss Law for magnetism.md",
+    "Magnetic Flux Density.md"
   ]
 }
