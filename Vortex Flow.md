@@ -1,4 +1,4 @@
-#elementary_flow 
+Elementary Flow
 For [[Irrotational flow]] and [[Inviscid flow]]:
 Velocity:
 $$V_\theta=-\frac{\Gamma}{2\pi r}$$

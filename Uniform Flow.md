@@ -1,4 +1,4 @@
-#elementary_flow
+Elementary flow
 
 -  Satisfies [[Lapalace's Equation]] --> can be used in building more complex flows
 Form of [[Incompressible flow]]

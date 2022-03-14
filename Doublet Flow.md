@@ -1,4 +1,4 @@
-#elementary_flow 
+Elementary flow 
 ![[doublet.png]]
 Source and Sink of equal strength Λ in distance l
 $$\psi=\frac{\Lambda}{2\pi}(\theta_1-\theta_2)=-\frac{\Lambda}{2\pi}\Delta\theta$$

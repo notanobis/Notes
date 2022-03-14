@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#StatisticalPhysics",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.05152099761212522,
+  "scale": 0.058965920636631544,
   "close": true
 }
