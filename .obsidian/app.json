@@ -11,5 +11,7 @@
     "downscalePercent": 100
   },
   "fileSortOrder": "byModifiedTime",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "legacyEditor": false
 }

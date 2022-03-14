@@ -1,7 +1,14 @@
+#Thermodynamics #StatisticalPhysics #FluidDynamics 
 ### Static pressure
 When saying pressure we usually refer to static pressure which is the pressure due to the random movement of the molecules on a certain speed V1
 
 - Measured by the static pressure orifice
+
+$$P=T(\frac{\partial S}{\partial V})_{E,N}$$
+where
+T : [[Temperature]]
+S : [[Entropy]]
+
 
 [[Ideal gas]]
 $$P=\frac{2}{3}nm<\frac{u^2}{2}>=\frac{2}{3}u$$
