@@ -4,14 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4e00a0bed2b0a7",
+        "id": "dc5d497e45ca86a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Momentum.md",
             "mode": "source",
             "source": false
+=======
+            "file": "Electromotive Force.md",
+            "mode": "preview"
+>>>>>>> 382cc4262293bb46e196dc9052438ef86aed6053
           }
         }
       }
@@ -40,7 +45,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "tag:#Electromagnetism",
+>>>>>>> 382cc4262293bb46e196dc9052438ef86aed6053
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,6 +70,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "22af3a9a1a5edca6",
         "type": "tabs",
         "dimension": 38.541666666666664,
@@ -79,6 +89,10 @@
         "id": "a0e9ef3e88bfa85e",
         "type": "tabs",
         "dimension": 61.45833333333333,
+=======
+        "id": "a0e9ef3e88bfa85e",
+        "type": "tabs",
+>>>>>>> 382cc4262293bb46e196dc9052438ef86aed6053
         "children": [
           {
             "id": "b8901a0e4befd76b",
@@ -94,7 +108,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Momentum.md",
+=======
+                "file": "Electromotive Force.md",
+>>>>>>> 382cc4262293bb46e196dc9052438ef86aed6053
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +123,16 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ca4e00a0bed2b0a7",
+  "active": "dc5d497e45ca86a6",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Momentum.md",
     "de Broglie.md",
     "X-rays.md",
@@ -124,5 +143,17 @@
     "Anime.md",
     "Excalidraw/Drawing 2022-03-14 10.41.38.excalidraw.md",
     "Index.md"
+=======
+    "Electromotive Force.md",
+    "Relastivistic Momentum.md",
+    "Special Relativity.md",
+    "Relativistic Energy.md",
+    "Ampere Circuital Law.md",
+    "Maxwell's equations.md",
+    "DIsplacement Current Density.md",
+    "Electric Displacement Field.md",
+    "Charge conservation.md",
+    "Capacitor.md"
+>>>>>>> 382cc4262293bb46e196dc9052438ef86aed6053
   ]
 }
