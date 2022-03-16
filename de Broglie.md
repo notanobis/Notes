@@ -14,7 +14,7 @@ $$T=\frac{mu^2}{2}=\frac{p^2}{2m}=e*V$$
 $$\lambda=\frac{h}{\sqrt{2emV}}$$
  λ της τάξης των Angstrom
  
- 2) Περίθλαση [[X rays]] κωνική:
+ 2) Περίθλαση [[X-rays]] κωνική:
  $$R=n\frac{L}{d}\lambda$$
  
  3) Αντικατάσταση (1)
