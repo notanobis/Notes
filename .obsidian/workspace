@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4e00a0bed2b0a7",
+        "id": "dc4a329993112116",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lattice.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lattice.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ca4e00a0bed2b0a7",
+  "active": "dc4a329993112116",
   "lastOpenFiles": [
-    "Lattice.md",
-    "X-rays.md",
-    "Bravais Lattice.md",
-    "Miller Indices.md",
-    "de Broglie.md",
-    "Momentum.md",
-    "Diffraction.md",
-    "Anime.md",
-    "Excalidraw/Drawing 2022-03-14 10.41.38.excalidraw.md",
-    "Index.md"
+    "Untitled.md",
+    "Isolated system.md",
+    "Statistical weight.md",
+    "Statistical Physics.md",
+    "Photoelectric effect.md",
+    "Relativistic Energy.md",
+    "Doppler effect.md",
+    "Photons.md",
+    "Planck's Law.md",
+    "Planck constant.md"
   ]
 }
