@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lattice.md",
+            "file": "Fire detection.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Element_Structure",
+                "query": "asat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lattice.md",
+                "file": "Fire detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
-    "Lattice.md",
-    "X-rays.md",
-    "Bravais Lattice.md",
-    "Miller Indices.md",
+    "Fire detection.md",
+    "TODO.md",
     "de Broglie.md",
-    "Momentum.md",
-    "Diffraction.md",
-    "Anime.md",
-    "Excalidraw/Drawing 2022-03-14 10.41.38.excalidraw.md",
-    "Index.md"
+    "Relastivistic Momentum.md",
+    "Pasted image 20220316091149.png",
+    "Miller Indices.md",
+    "Commutator.md",
+    "Operators.md",
+    "Distributivity.md",
+    "Semi-Group.md"
   ]
 }
