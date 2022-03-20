@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4a329993112116",
+        "id": "ca4e00a0bed2b0a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source",
+            "file": "Electrical Permittivity.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Element_Structure",
-                "matchingCase": false,
+                "query": "tag:#Electromagnetism",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Electrical Permittivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,20 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "dc4a329993112116",
+  "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Isolated system.md",
-    "Statistical weight.md",
-    "Statistical Physics.md",
-    "Photoelectric effect.md",
-    "Relativistic Energy.md",
+    "Electrical Permittivity.md",
     "Doppler effect.md",
-    "Photons.md",
-    "Planck's Law.md",
-    "Planck constant.md"
+    "Excalidraw/waves.md",
+    "Fire detection.md",
+    "Statistical Physics.md",
+    "Excalidraw/particles.md",
+    "TODO.md",
+    "de Broglie.md",
+    "Relastivistic Momentum.md",
+    "Pasted image 20220316091149.png"
   ]
 }
