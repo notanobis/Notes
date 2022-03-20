@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical Permittivity.md",
-            "mode": "preview",
+            "file": "Self-Inductance.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Permittivity.md",
+                "file": "Self-Inductance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
+    "Self-Inductance.md",
+    "Flux Rule.md",
+    "Maxwell-Faraday Law.md",
+    "Electromotive Force.md",
     "Electrical Permittivity.md",
     "Doppler effect.md",
     "Excalidraw/waves.md",
     "Fire detection.md",
     "Statistical Physics.md",
-    "Excalidraw/particles.md",
-    "TODO.md",
-    "de Broglie.md",
-    "Relastivistic Momentum.md",
-    "Pasted image 20220316091149.png"
+    "Excalidraw/particles.md"
   ]
 }
