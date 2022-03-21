@@ -4,17 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4e00a0bed2b0a7",
+        "id": "85286cae0135ba90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Heat Bath.md",
-=======
-            "file": "Self-Inductance.md",
->>>>>>> 59f936b51fcf303558dd09a7179924658773610a
-            "mode": "source",
+            "file": "Linux.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -44,15 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "tag:#StatisticalPhysics",
+                "query": "tag:#ASAT",
                 "matchingCase": false,
-=======
-                "query": "tag:#Electromagnetism",
-                "matchingCase": true,
->>>>>>> 59f936b51fcf303558dd09a7179924658773610a
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -103,11 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Heat Bath.md",
-=======
-                "file": "Self-Inductance.md",
->>>>>>> 59f936b51fcf303558dd09a7179924658773610a
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,32 +110,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ca4e00a0bed2b0a7",
+  "active": "85286cae0135ba90",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Linux.md",
+    "Servers.md",
+    "Fire detection.md",
     "Heat Bath.md",
     "0th Law.md",
     "X-rays.md",
     "Isolated system.md",
     "Statistical weight.md",
     "Statistical Physics.md",
-    "Photoelectric effect.md",
-    "Relativistic Energy.md",
-    "Doppler effect.md",
-    "Photons.md"
-=======
-    "Self-Inductance.md",
-    "Flux Rule.md",
-    "Maxwell-Faraday Law.md",
-    "Electromotive Force.md",
-    "Electrical Permittivity.md",
-    "Doppler effect.md",
-    "Excalidraw/waves.md",
-    "Fire detection.md",
-    "Statistical Physics.md",
-    "Excalidraw/particles.md"
->>>>>>> 59f936b51fcf303558dd09a7179924658773610a
+    "Photoelectric effect.md"
   ]
 }
