@@ -4,12 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4a329993112116",
+        "id": "ca4e00a0bed2b0a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Heat Bath.md",
+=======
+            "file": "Self-Inductance.md",
+>>>>>>> 59f936b51fcf303558dd09a7179924658773610a
             "mode": "source",
             "source": false
           }
@@ -40,10 +44,15 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "tag:#StatisticalPhysics",
                 "matchingCase": false,
+=======
+                "query": "tag:#Electromagnetism",
+                "matchingCase": true,
+>>>>>>> 59f936b51fcf303558dd09a7179924658773610a
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -94,7 +103,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Heat Bath.md",
+=======
+                "file": "Self-Inductance.md",
+>>>>>>> 59f936b51fcf303558dd09a7179924658773610a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +123,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "dc4a329993112116",
+  "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Heat Bath.md",
     "0th Law.md",
     "X-rays.md",
@@ -125,5 +138,17 @@
     "Relativistic Energy.md",
     "Doppler effect.md",
     "Photons.md"
+=======
+    "Self-Inductance.md",
+    "Flux Rule.md",
+    "Maxwell-Faraday Law.md",
+    "Electromotive Force.md",
+    "Electrical Permittivity.md",
+    "Doppler effect.md",
+    "Excalidraw/waves.md",
+    "Fire detection.md",
+    "Statistical Physics.md",
+    "Excalidraw/particles.md"
+>>>>>>> 59f936b51fcf303558dd09a7179924658773610a
   ]
 }
