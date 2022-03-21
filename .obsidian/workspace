@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "85286cae0135ba90",
+        "id": "2158a88569913231",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux.md",
-            "mode": "preview",
+            "file": "Docker.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ASAT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246
   },
   "right": {
     "id": "13811df10e62f698",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85286cae0135ba90",
+  "active": "2158a88569913231",
   "lastOpenFiles": [
+    "Docker.md",
     "Linux.md",
+    "X-rays.md",
+    "Compton Scattering.md",
+    "compton.excalidraw.md",
+    "Photoelectric effect.md",
+    "Planck - Einstein Relation.md",
     "Servers.md",
     "Fire detection.md",
-    "Heat Bath.md",
-    "0th Law.md",
-    "X-rays.md",
-    "Isolated system.md",
-    "Statistical weight.md",
-    "Statistical Physics.md",
-    "Photoelectric effect.md"
+    "Heat Bath.md"
   ]
 }
