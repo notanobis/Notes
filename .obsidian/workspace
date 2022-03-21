@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Heat Bath.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Element_Structure",
+                "query": "tag:#StatisticalPhysics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Heat Bath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "dc4a329993112116",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Heat Bath.md",
+    "0th Law.md",
+    "X-rays.md",
     "Isolated system.md",
     "Statistical weight.md",
     "Statistical Physics.md",
     "Photoelectric effect.md",
     "Relativistic Energy.md",
     "Doppler effect.md",
-    "Photons.md",
-    "Planck's Law.md",
-    "Planck constant.md"
+    "Photons.md"
   ]
 }
