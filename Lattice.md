@@ -23,3 +23,5 @@
 ![[Pasted image 20220316085149.png]]
 
 *Με βάση την συμμετρία* --> [[Bravais Lattice]]
+
+FCC (Face centered cubic)

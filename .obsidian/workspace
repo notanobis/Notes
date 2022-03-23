@@ -7,12 +7,8 @@
         "id": "ca4e00a0bed2b0a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Self-Inductance.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,10 +36,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Electromagnetism",
+                "query": "tag:#Element_Structure",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Inductance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +109,15 @@
   },
   "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
-    "Self-Inductance.md",
-    "Flux Rule.md",
-    "Maxwell-Faraday Law.md",
-    "Electromotive Force.md",
-    "Electrical Permittivity.md",
-    "Doppler effect.md",
-    "Excalidraw/waves.md",
-    "Fire detection.md",
-    "Statistical Physics.md",
-    "Excalidraw/particles.md"
+    "linux.md",
+    "Bravais Lattice.md",
+    "X-rays.md",
+    "Bohr Model.md",
+    "Bragg Law.md",
+    "Lattice.md",
+    "Miller Indices.md",
+    "Drawing 2022-03-23 14.15.59.excalidraw.md",
+    "Drawing 2022-03-22 19.36.05.excalidraw.md",
+    "Self-Inductance.md"
   ]
 }
