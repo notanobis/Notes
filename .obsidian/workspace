@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2158a88569913231",
+        "id": "ca4e00a0bed2b0a7",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-          "type": "empty",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "Docker.md",
+            "file": "Linux.md",
             "mode": "source",
             "source": false
           }
->>>>>>> 7f65f8a4381aae6957ba9d3d761a2424639a32f5
         }
       }
     ],
@@ -45,13 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "tag:#Element_Structure",
                 "matchingCase": true,
-=======
-                "query": "",
-                "matchingCase": false,
->>>>>>> 7f65f8a4381aae6957ba9d3d761a2424639a32f5
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -63,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 300
   },
   "right": {
     "id": "13811df10e62f698",
@@ -103,10 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Docker.md",
->>>>>>> 7f65f8a4381aae6957ba9d3d761a2424639a32f5
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,33 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2158a88569913231",
+  "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Linux.md",
+    "X-rays.md",
     "linux.md",
     "Bravais Lattice.md",
-    "X-rays.md",
     "Bohr Model.md",
     "Bragg Law.md",
     "Lattice.md",
     "Miller Indices.md",
     "Drawing 2022-03-23 14.15.59.excalidraw.md",
-    "Drawing 2022-03-22 19.36.05.excalidraw.md",
-    "Self-Inductance.md"
-=======
-    "Docker.md",
-    "Linux.md",
-    "X-rays.md",
-    "Compton Scattering.md",
-    "compton.excalidraw.md",
-    "Photoelectric effect.md",
-    "Planck - Einstein Relation.md",
-    "Servers.md",
-    "Fire detection.md",
-    "Heat Bath.md"
->>>>>>> 7f65f8a4381aae6957ba9d3d761a2424639a32f5
+    "Drawing 2022-03-22 19.36.05.excalidraw.md"
   ]
 }

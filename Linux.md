@@ -1,4 +1,7 @@
 #ASAT 
+
+BASH = Born again Shell
+ps= process status
 - cd = change directory
 cd . = here
 cd .. =previous folder
@@ -20,3 +23,24 @@ to rename : mv file newfile
 
 
 Ctrl+r --> search through previous commands
+
+bin = binary files
+	sbin = superuser binaries
+	usr  --> same files in bin
+	which ls --> usr/bin
+dev = devices
+	vda = virtual disk (hard drive) = sda
+home = da home of da users
+
+root= da home of da root
+
+cat =concatenate -> opens file
+
+etc = etcetera = etsy
+	network -> interfaces
+
+### Help
+command -h
+command --help
+man command
+apropos key-word
