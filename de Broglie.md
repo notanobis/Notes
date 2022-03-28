@@ -1,4 +1,4 @@
-#Quantum 
+ #Quantum 
 ## Κυματική φύση σωματιδίων
 $$\lambda=\frac{h}{p}$$
 h: [[Planck constant]]

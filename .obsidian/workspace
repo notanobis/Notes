@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux.md",
+            "file": "Anatolia webinar report.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205
   },
   "right": {
     "id": "13811df10e62f698",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Anatolia webinar report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +109,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
+    "Anatolia webinar report.md",
+    "Bravais Lattice.md",
+    "Lattice.md",
+    "de Broglie.md",
     "Linux.md",
     "X-rays.md",
     "linux.md",
-    "Bravais Lattice.md",
     "Bohr Model.md",
     "Bragg Law.md",
-    "Lattice.md",
-    "Miller Indices.md",
-    "Drawing 2022-03-23 14.15.59.excalidraw.md",
-    "Drawing 2022-03-22 19.36.05.excalidraw.md"
+    "Miller Indices.md"
   ]
 }
