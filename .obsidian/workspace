@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Anatolia webinar report.md",
+=======
+            "file": "Bravais Lattice.md",
+>>>>>>> c13b51aef2cc1d05acf5eff4d64c05680e03f720
             "mode": "source",
             "source": false
           }
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Anatolia webinar report.md",
+=======
+                "file": "Bravais Lattice.md",
+>>>>>>> c13b51aef2cc1d05acf5eff4d64c05680e03f720
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +122,26 @@
   },
   "active": "ca4e00a0bed2b0a7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Anatolia webinar report.md",
     "Bravais Lattice.md",
     "Lattice.md",
     "de Broglie.md",
+=======
+    "Bravais Lattice.md",
+    "Lattice.md",
+>>>>>>> c13b51aef2cc1d05acf5eff4d64c05680e03f720
     "Linux.md",
+    "Fire detection.md",
     "X-rays.md",
     "linux.md",
     "Bohr Model.md",
     "Bragg Law.md",
+<<<<<<< HEAD
     "Miller Indices.md"
+=======
+    "Miller Indices.md",
+    "Drawing 2022-03-23 14.15.59.excalidraw.md"
+>>>>>>> c13b51aef2cc1d05acf5eff4d64c05680e03f720
   ]
 }

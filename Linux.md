@@ -44,3 +44,25 @@ command -h
 command --help
 man command
 apropos key-word
+
+### Generate password
+openssl rand -base64 25
+(25 digits)
+
+### tmux
+sudo apt install tmux
+>tmux
+
+keeps terminal alive when connection is lost with:
+>tmux ls (δίνει τα ανοιχτα sessions)
+>tmux a -t 0 (αριθμός session)
+
+To exit : Ctrl+b+d
+To create new terminal:
+>Ctrl+b+c
+
+To go to next terminal :
+> Ctrl+b+n
+
+### Automation
+Ansible
