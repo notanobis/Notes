@@ -1,3 +1,4 @@
+#Nuclear 
 - Obey [[Bose-Einstein]] statistics
 -  ακέραιο [[Spin]]
 - [[Parity]] = +1

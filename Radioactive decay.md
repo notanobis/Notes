@@ -1,16 +1,20 @@
 ### Ραδιενεργός διάσπαση
-Ενεργότητα = Total activity
-$$A(t)=\lambda No*e^{-\lambda t}$$
-Αρχική ενεργότητα= Specific decay
 
-Ραδιενεργός πληθυσμός
+### Ραδιενεργός πληθυσμός
 $$N(t)=No*e^{-\lambda t}$$
 
 Μέσος χρόνος ζωής σωματιδίου = Mean lifetime
+λ : σταθερά διάσπασης
 $$\tau=\frac{1}{\lambda}$$
 
 Χρόνος ημιζωής = Half-life
 $$T_{1/2}=\tau*ln(2)=\tau*0.693$$
+
+### Ενεργότητα 
+Total activity
+$$R(t)=\bigg|\frac{dN}{dt}\bigg|=\lambda No*e^{-\lambda t}$$
+Αρχική ενεργότητα= Specific decay
+
 
 
 #### Μονάδες μέτρησης

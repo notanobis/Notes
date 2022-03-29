@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431511
       }
+    },
+    {
+      "query": "tag:#Nuclear",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2142242573669056,
+  "scale": 0.0674866157983391,
   "close": true
 }
